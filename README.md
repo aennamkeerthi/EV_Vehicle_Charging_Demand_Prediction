@@ -1,2 +1,2 @@
-# EV-vehicle-charging-Demand-Prediction
-AICTE Internship Cycle 2 
+# EV_vehicle_charging_Demand_Prediction
+AICTE_Internship_Cycle_2 
